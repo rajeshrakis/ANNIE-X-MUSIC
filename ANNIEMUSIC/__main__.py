@@ -50,12 +50,12 @@ async def init():
         pass
     await JARVIS.decorators()
     LOGGER("ANNIEMUSIC").info(
-        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝗝𝗔𝗥𝗩𝗜𝗦☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
+        "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝐍𝐎𝐓𝐓𝐘☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
     await app.stop()
     await userbot.stop()
-    LOGGER("ANNIEMUSIC").info("𝗦𝗧𝗢𝗣 𝗝𝗔𝗥𝗩𝗜𝗦 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
+    LOGGER("NOTTYMUSIC").info("𝗦𝗧𝗢𝗣 𝐍𝐎𝐓𝐓𝐘 𝗠𝗨𝗦𝗜𝗖🎻 𝗕𝗢𝗧..")
 
 
 if __name__ == "__main__":
