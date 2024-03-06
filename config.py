@@ -16,7 +16,7 @@ OWNER_USERNAME = getenv("OWNER_USERNAME","jarvis2O")
 # Get Your bot username
 BOT_USERNAME = getenv("BOT_USERNAME" , "Annie_X_music_bot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "˹🇦𝙽𝙽𝙸𝙴 ✘ ˹🇲𝚄𝚂𝙸𝙲˼")
+BOT_NAME = getenv("BOT_NAME" , "˹🇳𝐎𝐓𝐓𝐘 ✘ ˹🇲𝚄𝚂𝙸𝙲˼")
 #get Your Assistant User name
 ASSUSERNAME = getenv("ASSUSERNAME" , "musicXannie")
 EVALOP = list(map(int, getenv("EVALOP", "6797202080").split()))
@@ -48,8 +48,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/CDX_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BWANDARLOK")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/NEXT_TOPPPER")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/NEXT_TOPPPER")
 
 
 # Maximum Limit Allowed for users to save playlists on bot's server
