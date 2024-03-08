@@ -49,7 +49,7 @@ async def init():
     except:
         pass
     await JARVIS.decorators()
-    LOGGER("ANNIEMUSIC").info(
+    LOGGER("𝐂𝐔𝐏𝐂𝐀𝐊𝐄𝐌𝐔𝐒𝐈𝐂").info(
         "╔═════ஜ۩۞۩ஜ════╗\n  ☠︎︎𝗠𝗔𝗗𝗘 𝗕𝗬 𝐍𝐎𝐓𝐓𝐘☠︎︎\n╚═════ஜ۩۞۩ஜ════╝"
     )
     await idle()
