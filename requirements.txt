@@ -6,7 +6,6 @@ aiohttp
 asyncio
 beautifulsoup4
 deepai
-daxx
 python-whois
 dnspython
 ffmpeg-python
